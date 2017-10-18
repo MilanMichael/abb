@@ -1,4 +1,4 @@
-# ABB
+# ABB  (This package has ABB IRB 1600 robot package)
 
 
 [![Build Status](http://build.ros.org/job/Idev__abb__ubuntu_trusty_amd64/badge/icon)](http://build.ros.org/job/Idev__abb__ubuntu_trusty_amd64)
@@ -31,4 +31,4 @@ All robot support packages and MoveIt configurations follow the naming conventio
 [REP-I0007]: https://github.com/ros-industrial/rep/blob/master/rep-I0007.rst
 
 
-This package has ABB IRB 1600 robot package
+

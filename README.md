@@ -1,5 +1,6 @@
 # ABB
 
+
 [![Build Status](http://build.ros.org/job/Idev__abb__ubuntu_trusty_amd64/badge/icon)](http://build.ros.org/job/Idev__abb__ubuntu_trusty_amd64)
 
 [ROS-Industrial][] ABB meta-package.  See the [ROS wiki][] page for more information.
@@ -28,3 +29,6 @@ All robot support packages and MoveIt configurations follow the naming conventio
 [abb_experimental]: https://github.com/ros-industrial/abb_experimental
 [subversion repository]: https://code.google.com/p/swri-ros-pkg/source/browse
 [REP-I0007]: https://github.com/ros-industrial/rep/blob/master/rep-I0007.rst
+
+
+This package has ABB IRB 1600 robot package

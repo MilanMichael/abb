@@ -1,5 +1,4 @@
-# ABB  (This package has ABB IRB 1600 robot package)
-
+# ABB 
 
 [![Build Status](http://build.ros.org/job/Idev__abb__ubuntu_trusty_amd64/badge/icon)](http://build.ros.org/job/Idev__abb__ubuntu_trusty_amd64)
 
